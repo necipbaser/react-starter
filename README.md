@@ -1,1 +1,1 @@
-Read me değişti
+Read me text
